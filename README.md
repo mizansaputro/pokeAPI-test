@@ -7,7 +7,8 @@ Tugas nya adalah
 
 1. Buatlah sebuah halaman awal yang terdiri dari list item/pokemon, contoh nya adalah sebagai berikut
 2. Ketika suatu item/pokemon diklik, maka akan muncul halaman detail, contohnya adalah sebagai beikut
-3. (bonus) Buatlah sebuah filter pokemon di halaman awal
+3. Gunakan API di halaman berikut: https://pokeapi.co/
+4. (bonus) Buatlah sebuah filter pokemon di halaman awal
 
 NOTE:
 
